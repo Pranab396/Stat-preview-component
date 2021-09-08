@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Pranab396/Stat-preview-component)
+- Live Site URL:(https://pranab396.github.io/Stat-preview-component/)
 
 
 ### Built with
